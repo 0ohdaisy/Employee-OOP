@@ -4,9 +4,9 @@ This is my school project for the object - oriented programming class. The majo
 
 Several coding is carried out by members of my group :
 
-Module 1 : NURUL AIN SYUHADAH BINTI YUSOF
-Module 2 : HANIS NABILA BINTI ZULKIFLI
-Module 3 : NUR ADLINA SYAHIRAH BINTI MUSTAFA
+Module 1 : NURUL AIN SYUHADAH BINTI YUSOF <br>
+Module 2 : HANIS NABILA BINTI ZULKIFLI <br>
+Module 3 : NUR ADLINA SYAHIRAH BINTI MUSTAFA <br>
 Module 4 : NATASHA BINTI MUHAMMAD ROZELI
 
 
